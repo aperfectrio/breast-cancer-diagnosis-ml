@@ -37,3 +37,13 @@ python wdbc_classification.py
 Random Forest
 
 Accuracy: 0.9649 (96.49%)
+
+## Results
+
+### Breast Cancer Dataset Scatter Plot
+
+<img src="wdbc_classification_scatter.png" width="700">
+
+### Confusion Matrix
+
+<img src="wdbc_classification_matrix.png" width="700">
